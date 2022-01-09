@@ -1,5 +1,5 @@
 # QuickShare
-# <a href="https://hemant-sahu.netlify.app/">Demo Site</a>
+# <a href="https://hemant-sahu.netlify.app/">Live Demo</a>
 # About
 It is a simple social media app that allows users to post interesting events that happened in their lives.
 # Features 
