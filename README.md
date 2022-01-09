@@ -9,18 +9,5 @@ It is a simple social media app that allows users to post interesting events tha
 - Users can like other's and own post.
 - An attractive UI for better user experience.
 # Tools and technology used 
-React,Node.js,MongoDB,express,material-UI,bcryptjs,jsonwebtoken
-# Screenshots
+React,Node.js,MongoDB,express,material-UI
 
-<h3> Home Page(without SIGN IN) |  Sign UP Page | Sign In Page </h3>
-<br>
- <p ><img src="https://github.com/hks143/QuickShare/blob/master/client/screenshots/s5.jpeg" width="270" height="528">
-     <img src="https://github.com/hks143/QuickShare/blob/master/client/screenshots/s3.jpeg" width="270" height="528">
-  <img src="https://github.com/hks143/QuickShare/blob/master/client/screenshots/s4.jpeg" width="270" height="528">
-  </p>
-  <br>
-  <h3>Home page(with Sign In) | User's Post</h3>
-  <br>
-  <p ><img src="https://github.com/hks143/QuickShare/blob/master/client/screenshots/s2.jpeg" width="270" height="528">
-     <img src="https://github.com/hks143/QuickShare/blob/master/client/screenshots/s1.jpeg" width="270" height="528">
-  </p><br>
